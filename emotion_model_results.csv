@@ -1,0 +1,51 @@
+text,emotion,predicted_emotion,confidence,true_for_evaluation
+I am so happy that I finally achieved my goal!,joy,joy,0.837361752986908,joy
+She cried after hearing the sad news.,sadness,sadness,0.9025388956069946,sadness
+He was furious when he discovered what happened.,anger,neutral,0.49711230397224426,anger
+I am terrified of being alone in this place.,fear,fear,0.9056758880615234,fear
+Wow! I never expected this surprise.,surprise,surprise,0.8681878447532654,surprise
+She felt disgusted by the rotten food.,disgust,disgust,0.6289747357368469,disgust
+I love spending time with my family.,love,love,0.9607623219490051,love
+I am worried about what will happen tomorrow.,fear,nervousness,0.5769675374031067,fear
+He smiled when he received the good news.,joy,joy,0.7670165300369263,joy
+She felt completely hopeless after losing everything.,sadness,sadness,0.808968186378479,sadness
+The man became angry when someone insulted him.,anger,anger,0.6231244802474976,anger
+Everyone was shocked by the sudden announcement.,surprise,surprise,0.8857913613319397,surprise
+He was excited about his upcoming journey.,excitement,excitement,0.7651134133338928,excitement
+She was afraid to enter the dark room.,fear,fear,0.8277515172958374,fear
+I am grateful for everything you have done for me.,gratitude,gratitude,0.984325647354126,gratitude
+The child laughed happily while playing with his friends.,joy,joy,0.8364485502243042,joy
+He felt lonely after his friends left.,sadness,sadness,0.8655145764350891,sadness
+She shouted angrily after discovering the mistake.,anger,anger,0.46922534704208374,anger
+The loud noise frightened the little boy.,fear,fear,0.8837490677833557,fear
+I was amazed by the beautiful performance.,admiration,admiration,0.9378615617752075,admiration
+She felt proud after completing the difficult task.,pride,pride,0.42613300681114197,pride
+He hated the smell coming from the garbage.,disgust,anger,0.2859375476837158,disgust
+I am thankful for your kindness and support.,gratitude,gratitude,0.9897386431694031,gratitude
+The unexpected gift left her completely surprised.,surprise,surprise,0.893842875957489,surprise
+He was nervous before his important interview.,nervousness,nervousness,0.4809463322162628,nervousness
+She smiled because she was surrounded by people she loved.,love,love,0.8560220003128052,love
+The beautiful sunset made everyone feel peaceful.,joy,admiration,0.8436238765716553,joy
+He regretted hurting his best friend.,remorse,sadness,0.7235607504844666,remorse
+She was embarrassed after making a mistake in front of everyone.,embarrassment,embarrassment,0.7268238067626953,embarrassment
+I am optimistic that everything will work out.,optimism,optimism,0.9380718469619751,optimism
+The soldier was afraid before entering the battlefield.,fear,fear,0.6822505593299866,fear
+She was deeply disappointed by the result.,disappointment,disappointment,0.7069204449653625,disappointment
+He became irritated when the computer stopped working.,annoyance,annoyance,0.5414401292800903,annoyance
+The audience admired the artist's incredible performance.,admiration,admiration,0.9542049765586853,admiration
+She felt relief when she learned that everyone was safe.,relief,joy,0.29627886414527893,relief
+He was jealous when his friend received the award.,jealousy,neutral,0.8043497204780579,jealousy
+I miss my family when I am away from home.,sadness,sadness,0.906482994556427,sadness
+She was confused by the complicated instructions.,confusion,confusion,0.894593358039856,confusion
+He felt hopeful after receiving the positive news.,hope,optimism,0.9306004047393799,hope
+The disgusting smell made everyone leave the room.,disgust,disgust,0.8609387278556824,disgust
+She was excited to meet her favorite author.,excitement,excitement,0.7876259684562683,excitement
+He felt ashamed after lying to his parents.,shame,embarrassment,0.6938419342041016,shame
+I trust my best friend completely.,trust,approval,0.8077526092529297,trust
+The sudden explosion shocked everyone nearby.,surprise,surprise,0.8670605421066284,surprise
+She was angry because someone damaged her car.,anger,anger,0.7257754802703857,anger
+He felt calm after finishing his examination.,relief,neutral,0.6856200695037842,relief
+The little girl was delighted to receive a new toy.,joy,joy,0.8391906023025513,joy
+She worried about her family's safety.,fear,caring,0.5838338732719421,fear
+He felt grateful when his classmates helped him.,gratitude,gratitude,0.773993194103241,gratitude
+I was disappointed when the event was cancelled.,disappointment,disappointment,0.8376142382621765,disappointment
